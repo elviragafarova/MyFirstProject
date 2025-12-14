@@ -1,5 +1,5 @@
 package StringMethods;
-public class stringMethods {
+public class StringMethods {
         public static void main(String[] args) {
 
             String text = "Qafarova Elvira";
